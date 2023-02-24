@@ -8,7 +8,7 @@ Drag and drop mini react app
 
 
 # DnD packages
+v1 - @dnd-kit/core
 react-dnd react-dnd-html5-backend
 react-drag-and-drop
-@dnd-kit/core
 react-beautiful-dnd
